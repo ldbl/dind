@@ -1,4 +1,4 @@
-FROM docker:18.06
+FROM docker:18.09.3
 
 # https://github.com/docker/docker/blob/master/project/PACKAGERS.md#runtime-dependencies
 RUN set -eux; \
